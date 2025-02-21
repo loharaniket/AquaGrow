@@ -1,4 +1,4 @@
-🌱 AquaGrow – Smart Soil Moisture Monitoring & Motor Control
+🌱AquaGrow – Smart Soil Moisture Monitoring & Motor Control
 AquaGrow is a simple yet effective IoT-based soil moisture monitoring system using an ESP8266 (NodeMCU). It features a real-time web interface to display soil moisture levels and automatically control a motor (pump) based on soil dryness.
 
 🚀 Features
